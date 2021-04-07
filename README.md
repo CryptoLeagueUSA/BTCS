@@ -1,35 +1,35 @@
-Bitcoin Core integration/staging tree
+BTS Core integration/staging tree
 =====================================
 
-https://bitcoincore.org
 
-For an immediately usable, binary version of the Bitcoin Core software, see
-https://bitcoincore.org/en/download/.
 
-Further information about Bitcoin Core is available in the [doc folder](/doc).
+For an immediately usable, binary version of the Bitcoin Core software
 
-What is Bitcoin?
+Further information about BTS Core is available in the [doc folder](/doc).
+
+What is BTS?
 ----------------
 
-Bitcoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
+BTS is an experimental digital currency copy of Bitcoin that enables instant payments to
+anyone, anywhere in the world similar to Bitcoin. BTS uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Bitcoin Core is the name of open source
 software which enables the use of this currency.
 
-For more information read the original Bitcoin whitepaper.
+For more information read the original BTS whitepaper.
 
 License
 -------
 
-Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+BTS Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
 -------------------
 
 The `master` branch is regularly built (see `doc/build-*.md` for instructions) and tested, but it is not guaranteed to be
-completely stable. [Tags](https://github.com/bitcoin/bitcoin/tags) are created
+completely stable. [Tags](https://github.com/BTS-BitsofBitcoin
+/tags) are created
 regularly from release branches to indicate new official, stable release versions of Bitcoin Core.
 
 The https://github.com/bitcoin-core/gui repository is used exclusively for the
