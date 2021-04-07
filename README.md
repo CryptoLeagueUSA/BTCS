@@ -1,11 +1,11 @@
-BTS Core integration/staging tree
+BTS integration/staging tree
 =====================================
 
 
 
 For an immediately usable, binary version of the Bitcoin Core software
 
-Further information about BTS Core is available in the [doc folder](/doc).
+Further information about BTS Core is available as copy of Bitcoin core located in the [doc folder](/doc).
 
 What is BTS?
 ----------------
