@@ -1,4 +1,4 @@
-BTS integration/staging tree
+BITCOIN integration/staging tree SAME AS BTS
 =====================================
 
 
@@ -16,7 +16,7 @@ with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Bitcoin Core is the name of open source
 software which enables the use of this currency.
 
-For more information read the original BTS whitepaper.
+For more information read the original BITCOIN whitepaper WHICH IS SAME AS BTS.
 
 License
 -------
