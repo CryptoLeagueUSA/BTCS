@@ -1,1 +1,1 @@
-BITCOIN integration/staging tree SAME AS BTS
+BITCOIN integration/staging tree SAME AS PTC
