@@ -1,1 +1,1 @@
-BITCOIN integration/staging tree SAME AS PTC, BTCS and Bitcoins
+BITCOIN integration/staging tree same as Benklin.
